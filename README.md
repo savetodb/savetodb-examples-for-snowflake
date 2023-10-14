@@ -5,7 +5,7 @@ SaveToDB examples show various features of the applications built with Snowflake
 - [SaveToDB add-in for Microsoft Excel](https://www.savetodb.com/savetodb.htm)
 - [DBEdit for Windows](https://www.savetodb.com/dbedit.htm)
 
-To try examples with Excel, download the [SaveToDB SDK](https://www.savetodb.com/download-sdk.htm) which includes the source codes and workbooks.
+To try examples with Excel, download the [SaveToDB SDK](https://www.savetodb.com/download.htm) which includes the source codes and workbooks.
 
 Some samples have no configuration and show the features from the box.
 
@@ -48,7 +48,7 @@ Remove SaveToDB frameworks with the latest uninstalled example only.
 
 DBSetup is a free command-line tool to automate install and uninstall operations.
 
-It is shipped with [SaveToDB SDKs](https://www.savetodb.com/download-sdk.htm), [SaveToDB add-in](https://www.savetodb.com/savetodb.htm), [DBEdit](https://www.savetodb.com/dbedit.htm), and [gsqlcmd](https://www.savetodb.com/gsqlcmd.htm).
+It is shipped with [SaveToDB SDKs](https://www.savetodb.com/download.htm), [SaveToDB add-in](https://www.savetodb.com/savetodb.htm), and [DBEdit](https://www.savetodb.com/dbedit.htm)..
 
 We recommend installing it with gsqlcmd, another free useful tool for database developers.
 
