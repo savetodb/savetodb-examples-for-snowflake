@@ -1,8 +1,8 @@
 -- =============================================
 -- SaveToDB Sample 01 for Snowflake - Basic Features
--- Version 10.8, January 9, 2023
+-- Version 10.13, April 29, 2024
 --
--- Copyright 2018-2023 Gartle LLC
+-- Copyright 2018-2024 Gartle LLC
 --
 -- License: MIT
 -- =============================================
